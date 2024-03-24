@@ -33,7 +33,7 @@
           </a>
         </li>
         <li class=" bg-zinc-900/20 rounded-md py-2 text-center hover:border-zinc-600/60 border-zinc-600/20 border transiton-colors ease-linear duration-150">
-          <a href="https://github.com/TerrniTLLC/nuxt3-template">
+          <a href="https://dev.to/terrnitllc/setting-up-a-nuxt-3-project-with-eslint-typescript-and-tailwind-css-5c46">
             <IconsDevToIcon />
           </a>
         </li>
